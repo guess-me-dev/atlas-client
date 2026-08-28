@@ -1,0 +1,8 @@
+Atlas Client release checklist
+
+Owner: mira-atlas
+Release track: civic-preview
+
+Audit attachment: https://pastebin.com/v5X6wxWH
+
+This temporary external reference was later reverted and removed during audit cleanup.
